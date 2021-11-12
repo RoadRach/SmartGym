@@ -8,8 +8,8 @@ point = (400, 200)
 
 far_dist = 300
 near_dist = 100
-set_time_dur = 5
-rep_time_dur = 2
+set_time_dur = 10
+rep_time_dur = 1
 sets = []
 
 # global start
@@ -24,6 +24,7 @@ set_timer = 0
 rep_timer = 0
 ref_distance = 0
 
+#mosue position, to change to center of weights when computer vision is done
 def show_distance(event, x, y, args, params):
     global point
     if (start == 0):
@@ -87,7 +88,7 @@ while True:
     key = cv2.waitKey(1)
     if key == 27:
         break
-    print(sets)
+    # print(sets)
     #spacebar start counting reps
     if key == 32:
         start = ~start
@@ -98,11 +99,13 @@ while True:
                 sets.clear()
                 # print ("hi")
             set_start = True
+            print ("Start Recording Exercise.")
         else:
             ref_distance = 0
             if set_start and rep != 0:
                 sets.append(rep)
                 # print ("hi2")
+            print ("Stop Recording Exercise. Exercise Recorded:")
             print(sets)
         set_timer = 0
 
@@ -128,4 +131,6 @@ while True:
                     #     rep = 0
                     if rep != 0:
                         sets.append(rep)
+                        print ("Set Completed. Current Sets:")
+                        print (sets)
                         rep = 0
