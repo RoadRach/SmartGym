@@ -75,13 +75,14 @@ while True:
 
     # distance = depth_frame[point[1],point[0]]
 
-    cv2.putText(color_frame, "{}mm".format(distance_mean), (point[0], point[1] - 20), cv2.FONT_HERSHEY_PLAIN, 1, (0, 0, 255), 2)
-    cv2.putText(color_frame, "{} rep".format(rep), (point[0] + 20, point[1] + 40), cv2.FONT_HERSHEY_PLAIN, 1, (0, 0, 255), 2)
-    cv2.putText(color_frame, "{} sets".format(len(sets)), (point[0] + 20, point[1] + 60), cv2.FONT_HERSHEY_PLAIN, 1, (0, 0, 255), 2)
-    cv2.putText(color_frame, "{} mm ref".format(ref_distance), (point[0] + 20, point[1] + 0), cv2.FONT_HERSHEY_PLAIN, 1, (0, 0, 255), 2)
-    cv2.putText(color_frame, "{} rep_far".format(rep_far), (point[0] + 20, point[1] + 20), cv2.FONT_HERSHEY_PLAIN, 1, (0, 0, 255), 2)
-    cv2.putText(color_frame, "{} set_timer".format(set_timer), (point[0] + 20, point[1] - 40), cv2.FONT_HERSHEY_PLAIN, 1, (0, 0, 255), 2)
-    cv2.putText(color_frame, "{} time".format(time.monotonic()), (point[0] + 20, point[1] - 60), cv2.FONT_HERSHEY_PLAIN, 1, (0, 0, 255), 2)
+    cv2.rectangle(color_frame, (point[0]+35, point[1]-120), (point[0]+300,point[1]+95) ,(0,0,0), -1)
+    cv2.putText(color_frame, "{} mm".format(distance_mean), (point[0] + 40, point[1] - 30), cv2.FONT_HERSHEY_PLAIN, 2, (0, 255, 0), 2)
+    cv2.putText(color_frame, "{} rep".format(rep), (point[0] + 40, point[1] + 60), cv2.FONT_HERSHEY_PLAIN, 2, (0, 255, 0), 2)
+    cv2.putText(color_frame, "{} sets".format(len(sets)), (point[0] + 40, point[1] + 90), cv2.FONT_HERSHEY_PLAIN, 2, (0, 0, 255), 2)
+    cv2.putText(color_frame, "{} mm ref".format(ref_distance), (point[0] + 40, point[1] + 0), cv2.FONT_HERSHEY_PLAIN, 2, (255, 255, 255), 2)
+    cv2.putText(color_frame, "{} rep_far".format(rep_far), (point[0] + 40, point[1] + 30), cv2.FONT_HERSHEY_PLAIN, 2, (255, 255, 255), 2)
+    cv2.putText(color_frame, "{} set_timer".format(set_timer), (point[0] + 40, point[1] - 60), cv2.FONT_HERSHEY_PLAIN, 2, (255, 255, 255), 2)
+    cv2.putText(color_frame, "{} time".format(round(time.monotonic())), (point[0] + 40, point[1] - 90), cv2.FONT_HERSHEY_PLAIN, 2, (0, 255, 255), 2)
 
     #cv2.imshow ("Depth frame", depth_frame)
     cv2.imshow("Color frame", color_frame)
@@ -114,14 +115,14 @@ while True:
             if (abs(distance_mean - ref_distance) < near_dist):
                 rep_far = ~rep_far
                 rep += 1
-                set_timer = time.monotonic()
+                set_timer = round(time.monotonic())
                 set_start = True
-                rep_timer = time.monotonic()
+                rep_timer = round(time.monotonic())
         else:
             if (abs(distance_mean - ref_distance) > far_dist) and (time.monotonic() - rep_timer > rep_time_dur) and (distance_mean != 0):
                 rep_far = ~rep_far
             if set_start:
-                if (time.monotonic()-set_timer > set_time_dur):
+                if (round(time.monotonic())-set_timer > set_time_dur):
                     set_start = False
                     # if sets:
                     #     sets[0] = rep

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Weights_Images</folder>
+	<filename>gym_metal_steel_plates_1620362002_3ab8f4c5_progressive.jpeg</filename>
+	<path>/home/capstone/Desktop/capstone/SmartGym/Gym Plate JPEG/Weights_Images/gym_metal_steel_plates_1620362002_3ab8f4c5_progressive.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>weights</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>1</ymin>
+			<xmax>451</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>
