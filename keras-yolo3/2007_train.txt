@@ -1,0 +1,69 @@
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1_03e024b1-9fa4-490a-ac56-6b4a9d7ded99.jpeg 448,283,546,377,0 329,78,478,224,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133302.jpeg 244,150,420,330,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133310.jpeg 211,203,479,253,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133312.jpeg 193,169,432,360,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133316.jpeg 231,152,400,354,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133321.jpeg 185,85,491,388,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133326.jpeg 114,175,511,256,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133328.jpeg 112,135,463,409,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133331.jpeg 217,38,492,403,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133337.jpeg 172,59,528,421,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133343.jpeg 162,192,527,291,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133344.jpeg 140,155,493,452,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133349.jpeg 201,56,510,437,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133354.jpeg 141,76,483,420,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133359.jpeg 145,183,607,320,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133405.jpeg 161,52,554,404,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133411.jpeg 202,51,517,440,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133418.jpeg 150,33,547,431,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133425.jpeg 99,178,564,292,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133427.jpeg 134,183,622,300,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133429.jpeg 79,188,543,301,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133436.jpeg 91,75,555,476,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133442.jpeg 190,1,555,459,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133449.jpeg 116,1,564,447,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133506.jpeg 42,189,551,290,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133600.jpeg 107,216,514,321,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133605.jpeg 148,184,537,298,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133611.jpeg 210,163,389,196,0 59,93,146,183,0 84,224,158,295,0 95,320,152,375,0 94,391,137,436,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133743.jpeg 95,172,517,258,0 129,254,481,315,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133748.jpeg 100,178,523,263,0 131,260,491,320,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133752.jpeg 84,181,525,273,0 117,267,487,338,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133813.jpeg 121,131,518,220,0 156,201,490,268,0 187,260,461,324,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133816.jpeg 109,122,523,236,0 142,207,494,274,0 171,274,461,331,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133818.jpeg 133,154,562,247,0 165,232,524,309,0 198,303,487,367,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133819.jpeg 110,145,539,245,0 144,230,504,297,0 176,299,472,361,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133827.jpeg 82,119,531,222,0 119,205,497,278,0 155,274,461,345,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133836.jpeg 135,109,518,214,0 164,185,492,260,0 194,250,463,303,0 224,301,433,351,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133838.jpeg 145,67,543,191,0 174,145,514,236,0 200,218,479,284,0 232,276,448,328,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133841.jpeg 132,88,543,215,0 160,169,510,263,0 191,237,477,307,0 221,300,445,355,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133844.jpeg 156,96,549,221,0 184,166,518,261,0 208,236,486,306,0 240,300,454,354,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133846.jpeg 108,106,517,228,0 142,189,486,273,0 172,258,457,321,0 206,317,425,372,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133850.jpeg 111,157,479,270,0 130,227,448,314,0 155,292,415,353,0 181,341,385,401,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133853.jpeg 149,135,538,241,0 175,205,507,291,0 202,275,476,337,0 233,333,441,385,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133903.jpeg 161,93,519,208,0 190,159,493,243,0 220,219,468,287,0 252,270,444,325,0 269,313,426,347,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133906.jpeg 161,77,538,205,0 192,151,512,242,0 220,214,484,284,0 253,279,455,327,0 272,321,437,362,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133910.jpeg 160,88,552,215,0 192,166,521,254,0 221,232,492,297,0 254,295,465,345,0 274,337,445,379,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_133918.jpeg 148,70,524,193,0 178,144,497,243,0 206,211,470,271,0 239,269,441,318,0 258,317,424,339,0 270,339,410,361,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_134010.jpeg 134,118,504,240,0 193,200,452,254,0 163,252,483,315,0 226,304,426,355,0 193,342,461,418,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/20211030_134012.jpeg 150,164,478,255,0 207,229,433,281,0 180,268,463,332,0 236,314,414,367,0 207,348,445,420,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/2kg_weights_plates_1630047324_352195f3_progressive.jpeg 247,88,566,415,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/Cheap-Fitness-Weight-Lifting-Disc-Plate-Gym-Rubber-Weight-Plates.jpeg 276,22,545,285,0 173,2,589,398,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/Dumbell_top_view.jpeg 319,39,356,253,0 351,66,377,237,0 126,33,198,252,0 212,186,268,442,0 407,195,486,451,0 69,76,108,206,0 387,91,417,217,0 142,231,187,388,0 505,249,555,399,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/Hot-Selling-Commercial-Home-Gym-Barbell-Plates-Used-Barbell-Bumper-Plates.jpeg 169,56,551,253,0 238,248,451,400,0 198,158,501,339,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/Side_Weights.jpeg 184,68,225,402,0 242,68,265,405,0 289,107,308,406,0 327,165,353,402,0 366,233,394,400,0 401,260,428,402,0 437,282,463,401,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/Weight-plate-materials.jpeg 14,154,195,336,0 234,159,411,335,0 443,152,628,337,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/Weights_dumbell.jpeg 410,45,560,210,0 490,284,626,445,0 297,280,319,432,0 275,271,299,442,0 250,262,275,450,0 111,262,137,450,0 87,271,110,442,0 66,281,87,433,0 264,49,341,204,0 211,32,286,223,0 238,40,302,214,0 392,28,573,221,0 84,32,185,222,0 376,262,501,449,0 55,52,90,201,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/Weights_on_bar.jpeg 200,29,613,436,0 159,14,186,380,0 143,34,166,360,0 125,65,147,329,0 109,104,128,287,0 95,119,112,272,0 87,133,101,261,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/download.jpeg 303,23,471,134,0 245,42,468,207,0 215,99,471,296,0 177,183,471,407,0 149,293,471,480,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/dumbell_top_view_2.jpeg 214,80,279,267,0 179,85,233,262,0 423,66,475,263,0 465,75,513,260,0 498,81,544,255,0 152,99,189,248,0 203,271,271,459,0 169,275,221,454,0 145,279,183,439,0 411,271,456,470,0 452,278,495,468,0 487,282,525,454,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/steel-gym-plate-500x500.jpeg 23,22,618,458,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/weights.jpeg 89,30,551,123,0 90,130,551,202,0 89,243,551,310,0 86,329,550,449,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/gym_metal_steel_plates_1620362002_3ab8f4c5_progressive.jpeg 66,1,451,399,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/gym_metal_steel_plates_1620362003_9fe163b3_progressive.jpeg 1,47,464,480,0 429,3,640,469,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/gym_metal_steel_plates_for_hom_1627103973_2a42f03a_progressive.jpeg 67,275,177,376,0 175,322,318,467,0 360,142,535,313,0 223,227,381,378,0 194,69,419,253,0 8,29,258,267,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hitemp_bumper_plates_for_gymbo_1624585300_3ef2c863_progressive.jpeg 301,183,587,480,0 274,1,539,276,0 203,284,317,480,0 199,1,344,203,0 181,226,301,400,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/hitemp_bumper_plates_for_gymbo_1624585300_9b979cd5_progressive.jpeg 183,178,483,478,0 9,189,242,477,0 415,182,631,469,0 64,1,373,209,0 319,1,563,211,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/olympic_trigrip_rubberised_pla_1633383198_63a492ab_progressive.jpeg 26,3,603,480,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/olympic_trigrip_rubberised_pla_1634359398_05d19ea1_progressive.jpeg 81,88,359,480,0 225,58,485,433,0 291,2,624,421,0
+/home/capstone/Desktop/capstone/SmartGym/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/technogym_10kg_20kg_gym_weight_1620621821_fa4caf4d_progressive.jpeg 48,187,193,304,0 47,111,184,203,0 177,278,383,429,0 350,94,495,177,0 373,188,522,304,0 376,328,518,432,0
