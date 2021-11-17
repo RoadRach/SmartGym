@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Part 4</folder>
+	<filename>IMG_0038.jpeg</filename>
+	<path>C:\Users\Public\Mirror\University\Year 4 Sem 1\CAPSTONE\Gym Plate JPEG\Weight Plate Photos-20211116T121457Z-001\Part 4\IMG_0038.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>543</width>
+		<height>725</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>weights</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>129</ymin>
+			<xmax>303</xmax>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+</annotation>
