@@ -1,13 +1,13 @@
 <annotation>
-	<folder>Part 1</folder>
-	<filename>IMG_0100.jpeg</filename>
-	<path>C:\Users\Public\Mirror\University\Year 4 Sem 1\CAPSTONE\Gym Plate JPEG\Weight Plate Photos-20211116T121457Z-001\Part 1\IMG_0100.jpeg</path>
+	<folder>Part 5</folder>
+	<filename>IMG_0025.jpeg</filename>
+	<path>C:\Users\Public\Mirror\University\Year 4 Sem 1\CAPSTONE\Gym Plate JPEG\Weight Plate Photos-20211116T121457Z-001\Part 5\IMG_0025.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>480</width>
-		<height>640</height>
+		<width>1122</width>
+		<height>1498</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>208</xmin>
-			<ymin>176</ymin>
-			<xmax>293</xmax>
-			<ymax>583</ymax>
+			<xmin>17</xmin>
+			<ymin>206</ymin>
+			<xmax>1112</xmax>
+			<ymax>1306</ymax>
 		</bndbox>
 	</object>
 </annotation>

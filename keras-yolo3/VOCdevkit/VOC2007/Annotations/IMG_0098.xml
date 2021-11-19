@@ -1,13 +1,13 @@
 <annotation>
-	<folder>Part 1</folder>
-	<filename>IMG_0098.jpeg</filename>
-	<path>C:\Users\Public\Mirror\University\Year 4 Sem 1\CAPSTONE\Gym Plate JPEG\Weight Plate Photos-20211116T121457Z-001\Part 1\IMG_0098.jpeg</path>
+	<folder>Part 5</folder>
+	<filename>IMG_0023.jpeg</filename>
+	<path>C:\Users\Public\Mirror\University\Year 4 Sem 1\CAPSTONE\Gym Plate JPEG\Weight Plate Photos-20211116T121457Z-001\Part 5\IMG_0023.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>480</height>
+		<width>823</width>
+		<height>1097</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>195</xmin>
-			<ymin>196</ymin>
-			<xmax>274</xmax>
-			<ymax>267</ymax>
+			<xmin>324</xmin>
+			<ymin>616</ymin>
+			<xmax>506</xmax>
+			<ymax>699</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,58 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>337</xmin>
-			<ymin>217</ymin>
-			<xmax>497</xmax>
-			<ymax>353</ymax>
+			<xmin>220</xmin>
+			<ymin>623</ymin>
+			<xmax>631</xmax>
+			<ymax>775</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weights</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>681</ymin>
+			<xmax>649</xmax>
+			<ymax>826</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weights</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>727</ymin>
+			<xmax>661</xmax>
+			<ymax>853</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weights</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>764</ymin>
+			<xmax>669</xmax>
+			<ymax>919</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weights</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>821</ymin>
+			<xmax>683</xmax>
+			<ymax>971</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,13 +1,13 @@
 <annotation>
-	<folder>Part 5</folder>
-	<filename>IMG_0015.jpeg</filename>
-	<path>C:\Users\Public\Mirror\University\Year 4 Sem 1\CAPSTONE\Gym Plate JPEG\Weight Plate Photos-20211116T121457Z-001\Part 5\IMG_0015.jpeg</path>
+	<folder>Weights_Images</folder>
+	<filename>20211030_133405.jpeg</filename>
+	<path>/home/capstone/Desktop/capstone/SmartGym/Gym Plate JPEG/Weights_Images/20211030_133405.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>843</width>
-		<height>1123</height>
+		<width>640</width>
+		<height>480</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>256</xmin>
-			<ymin>416</ymin>
-			<xmax>561</xmax>
-			<ymax>734</ymax>
+			<xmin>161</xmin>
+			<ymin>52</ymin>
+			<xmax>554</xmax>
+			<ymax>404</ymax>
 		</bndbox>
 	</object>
 </annotation>

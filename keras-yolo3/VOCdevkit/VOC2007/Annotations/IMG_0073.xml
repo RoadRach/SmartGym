@@ -1,13 +1,13 @@
 <annotation>
-	<folder>Part 3</folder>
-	<filename>IMG_0073.jpeg</filename>
-	<path>C:\Users\Public\Mirror\University\Year 4 Sem 1\CAPSTONE\Gym Plate JPEG\Weight Plate Photos-20211116T121457Z-001\Part 3\IMG_0073.jpeg</path>
+	<folder>Weights_Images</folder>
+	<filename>images.jpeg</filename>
+	<path>/home/capstone/Desktop/capstone/SmartGym/Gym Plate JPEG/Weights_Images/images.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1280</width>
-		<height>960</height>
+		<width>640</width>
+		<height>480</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>681</xmin>
-			<ymin>388</ymin>
-			<xmax>968</xmax>
-			<ymax>707</ymax>
+			<xmin>427</xmin>
+			<ymin>117</ymin>
+			<xmax>639</xmax>
+			<ymax>415</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>702</xmin>
-			<ymin>193</ymin>
-			<xmax>1037</xmax>
-			<ymax>464</ymax>
+			<xmin>166</xmin>
+			<ymin>74</ymin>
+			<xmax>493</xmax>
+			<ymax>439</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>weights</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>316</xmin>
-			<ymin>351</ymin>
-			<xmax>754</xmax>
-			<ymax>770</ymax>
+			<xmin>1</xmin>
+			<ymin>65</ymin>
+			<xmax>226</xmax>
+			<ymax>441</ymax>
 		</bndbox>
 	</object>
 </annotation>
