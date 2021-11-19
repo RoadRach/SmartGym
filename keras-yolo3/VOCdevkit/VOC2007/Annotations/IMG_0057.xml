@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Weights_Images</folder>
-	<filename>20211030_134030.jpeg</filename>
-	<path>/home/capstone/Desktop/capstone/SmartGym/Gym Plate JPEG/Weights_Images/20211030_134030.jpeg</path>
+	<filename>20211030_134032.jpeg</filename>
+	<path>/home/capstone/Desktop/capstone/SmartGym/Gym Plate JPEG/Weights_Images/20211030_134032.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>229</xmin>
-			<ymin>67</ymin>
-			<xmax>443</xmax>
-			<ymax>127</ymax>
+			<xmin>220</xmin>
+			<ymin>99</ymin>
+			<xmax>429</xmax>
+			<ymax>148</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>261</xmin>
-			<ymin>105</ymin>
-			<xmax>407</xmax>
-			<ymax>145</ymax>
+			<xmin>251</xmin>
+			<ymin>136</ymin>
+			<xmax>396</xmax>
+			<ymax>167</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,22 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>242</xmin>
-			<ymin>132</ymin>
-			<xmax>422</xmax>
-			<ymax>175</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>weights</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>275</xmin>
+			<xmin>234</xmin>
 			<ymin>163</ymin>
-			<xmax>386</xmax>
-			<ymax>193</ymax>
+			<xmax>411</xmax>
+			<ymax>197</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +53,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>257</xmin>
-			<ymin>187</ymin>
-			<xmax>402</xmax>
-			<ymax>223</ymax>
+			<xmin>265</xmin>
+			<ymin>194</ymin>
+			<xmax>377</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weights</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>212</ymin>
+			<xmax>393</xmax>
+			<ymax>248</ymax>
 		</bndbox>
 	</object>
 </annotation>

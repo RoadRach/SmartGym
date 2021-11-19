@@ -1,20 +1,20 @@
-20211030_134017
-20211030_134021
-20211030_134024
-20211030_134030
-20211030_133756
-20211030_133801
-images_(1)
-images_(2)
-IMG_0093
-IMG_0094
-IMG_0095
-IMG_0096
-IMG_0097
-IMG_0098
-IMG_0099
-IMG_0100
-IMG_0101
-IMG_0102
-IMG_0103
-IMG_0104
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0041.jpeg 145,67,543,191,0 174,145,514,236,0 200,218,479,284,0 232,276,448,328,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0043.jpeg 156,96,549,221,0 184,166,518,261,0 208,236,486,306,0 240,300,454,354,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0045.jpeg 111,157,479,270,0 130,227,448,314,0 155,292,415,353,0 181,341,385,401,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0047.jpeg 161,93,519,208,0 190,159,493,243,0 220,219,468,287,0 252,270,444,325,0 269,313,426,347,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0049.jpeg 160,88,552,215,0 192,166,521,254,0 221,232,492,297,0 254,295,465,345,0 274,337,445,379,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0051.jpeg 134,118,504,240,0 193,200,452,254,0 163,252,483,315,0 226,304,426,355,0 193,342,461,418,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0053.jpeg 151,164,492,247,0 205,230,442,281,0 176,280,468,330,0 231,325,416,375,0 200,357,447,431,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0055.jpeg 202,131,433,186,0 240,171,398,205,0 221,201,416,235,0 257,234,382,262,0 240,259,399,295,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0057.jpeg 220,99,429,148,0 251,136,396,167,0 234,163,411,197,0 265,194,377,219,0 247,212,393,248,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0059.jpeg 1728,1015,2938,1252,0 1813,1190,2825,1408,0 1881,1315,2731,1549,0 1966,1499,2600,1668,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0161.jpeg 274,283,847,607,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0162.jpeg 352,187,1030,615,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0163.jpeg 329,168,1033,857,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0164.jpeg 102,290,821,1021,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0165.jpeg 255,210,971,552,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0166.jpeg 316,236,1092,738,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0167.jpeg 277,336,831,842,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0168.jpeg 122,375,787,1041,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0169.jpeg 425,290,587,461,0 425,635,737,944,0
+C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/IMG_0170.jpeg 397,414,1029,722,0 1041,397,1280,513,0

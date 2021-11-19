@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Weights_Images</folder>
-	<filename>20211030_133349.jpeg</filename>
-	<path>/home/capstone/Desktop/capstone/SmartGym/Gym Plate JPEG/Weights_Images/20211030_133349.jpeg</path>
+	<folder>JPEGImages</folder>
+	<filename>IMG_0012.jpeg</filename>
+	<path>C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3\VOCdevkit\VOC2007\JPEGImages\IMG_0012.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>201</xmin>
-			<ymin>56</ymin>
-			<xmax>510</xmax>
-			<ymax>437</ymax>
+			<xmin>140</xmin>
+			<ymin>76</ymin>
+			<xmax>483</xmax>
+			<ymax>418</ymax>
 		</bndbox>
 	</object>
 </annotation>

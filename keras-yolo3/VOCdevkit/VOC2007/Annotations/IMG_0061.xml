@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Weights_Images</folder>
-	<filename>2kg_weights_plates_1630047324_352195f3_progressive.jpeg</filename>
-	<path>/home/capstone/Desktop/capstone/SmartGym/Gym Plate JPEG/Weights_Images/2kg_weights_plates_1630047324_352195f3_progressive.jpeg</path>
+	<filename>Cheap-Fitness-Weight-Lifting-Disc-Plate-Gym-Rubber-Weight-Plates.jpeg</filename>
+	<path>/home/capstone/Desktop/capstone/SmartGym/Gym Plate JPEG/Weights_Images/Cheap-Fitness-Weight-Lifting-Disc-Plate-Gym-Rubber-Weight-Plates.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>247</xmin>
-			<ymin>88</ymin>
-			<xmax>566</xmax>
-			<ymax>415</ymax>
+			<xmin>276</xmin>
+			<ymin>22</ymin>
+			<xmax>545</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weights</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>2</ymin>
+			<xmax>589</xmax>
+			<ymax>398</ymax>
 		</bndbox>
 	</object>
 </annotation>

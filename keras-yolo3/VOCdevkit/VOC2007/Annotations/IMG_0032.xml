@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Weights_Images</folder>
-	<filename>20211030_133748.jpeg</filename>
-	<path>/home/capstone/Desktop/capstone/SmartGym/Gym Plate JPEG/Weights_Images/20211030_133748.jpeg</path>
+	<filename>20211030_133752.jpeg</filename>
+	<path>/home/capstone/Desktop/capstone/SmartGym/Gym Plate JPEG/Weights_Images/20211030_133752.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>100</xmin>
-			<ymin>178</ymin>
-			<xmax>523</xmax>
-			<ymax>263</ymax>
+			<xmin>84</xmin>
+			<ymin>181</ymin>
+			<xmax>525</xmax>
+			<ymax>273</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>131</xmin>
-			<ymin>260</ymin>
-			<xmax>491</xmax>
-			<ymax>320</ymax>
+			<xmin>117</xmin>
+			<ymin>267</ymin>
+			<xmax>487</xmax>
+			<ymax>338</ymax>
 		</bndbox>
 	</object>
 </annotation>

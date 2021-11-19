@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Part 4</folder>
-	<filename>IMG_0044.jpeg</filename>
-	<path>C:\Users\Public\Mirror\University\Year 4 Sem 1\CAPSTONE\Gym Plate JPEG\Weight Plate Photos-20211116T121457Z-001\Part 4\IMG_0044.jpeg</path>
+	<folder>JPEGImages</folder>
+	<filename>IMG_0119.jpeg</filename>
+	<path>C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3\VOCdevkit\VOC2007\JPEGImages\IMG_0119.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -41,22 +41,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>448</xmin>
-			<ymin>18</ymin>
-			<xmax>949</xmax>
-			<ymax>556</ymax>
+			<xmin>443</xmin>
+			<ymin>19</ymin>
+			<xmax>944</xmax>
+			<ymax>557</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>weights</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>451</xmin>
-			<ymin>1</ymin>
-			<xmax>1103</xmax>
-			<ymax>551</ymax>
+			<xmin>1060</xmin>
+			<ymin>242</ymin>
+			<xmax>1164</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weights</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1134</xmin>
+			<ymin>225</ymin>
+			<xmax>1239</xmax>
+			<ymax>279</ymax>
 		</bndbox>
 	</object>
 </annotation>

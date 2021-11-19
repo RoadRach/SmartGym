@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Part 4</folder>
-	<filename>IMG_0047.jpeg</filename>
-	<path>C:\Users\Public\Mirror\University\Year 4 Sem 1\CAPSTONE\Gym Plate JPEG\Weight Plate Photos-20211116T121457Z-001\Part 4\IMG_0047.jpeg</path>
+	<folder>JPEGImages</folder>
+	<filename>IMG_0122.jpeg</filename>
+	<path>C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3\VOCdevkit\VOC2007\JPEGImages\IMG_0122.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -69,18 +69,6 @@
 			<ymin>159</ymin>
 			<xmax>604</xmax>
 			<ymax>202</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>weights</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>319</xmin>
-			<ymin>147</ymin>
-			<xmax>826</xmax>
-			<ymax>561</ymax>
 		</bndbox>
 	</object>
 </annotation>
