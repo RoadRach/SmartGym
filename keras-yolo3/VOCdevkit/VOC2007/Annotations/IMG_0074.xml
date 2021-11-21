@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Weights_Images</folder>
-	<filename>images (2).jpeg</filename>
-	<path>/home/capstone/Desktop/capstone/SmartGym/Gym Plate JPEG/Weights_Images/images (2).jpeg</path>
+	<folder>JPEGImages</folder>
+	<filename>IMG_0074.jpeg</filename>
+	<path>C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3\VOCdevkit\VOC2007\JPEGImages\IMG_0074.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

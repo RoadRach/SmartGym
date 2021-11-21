@@ -1,13 +1,13 @@
 <annotation>
-	<folder>Weight Plate Photos</folder>
-	<filename>IMG_0009.jpeg</filename>
-	<path>C:\Users\Public\Mirror\University\Year 4 Sem 1\CAPSTONE\Gym Plate JPEG\Weight Plate Photos-20211116T121457Z-001\Weight Plate Photos\IMG_0009.jpeg</path>
+	<folder>JPEGImages</folder>
+	<filename>IMG_0084.jpeg</filename>
+	<path>C:\cygwin64\home\jaswa\Capstone\test\test\SmartGym\keras-yolo3\VOCdevkit\VOC2007\JPEGImages\IMG_0084.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1122</width>
-		<height>1497</height>
+		<width>640</width>
+		<height>480</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>88</xmin>
-			<ymin>837</ymin>
-			<xmax>201</xmax>
-			<ymax>975</ymax>
+			<xmin>383</xmin>
+			<ymin>4</ymin>
+			<xmax>458</xmax>
+			<ymax>91</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>260</xmin>
-			<ymin>909</ymin>
-			<xmax>396</xmax>
-			<ymax>1047</ymax>
+			<xmin>345</xmin>
+			<ymin>123</ymin>
+			<xmax>421</xmax>
+			<ymax>201</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>439</xmin>
-			<ymin>839</ymin>
-			<xmax>615</xmax>
-			<ymax>1026</ymax>
+			<xmin>363</xmin>
+			<ymin>213</ymin>
+			<xmax>439</xmax>
+			<ymax>291</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,22 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>647</xmin>
-			<ymin>804</ymin>
-			<xmax>838</xmax>
-			<ymax>980</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>weights</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>915</xmin>
-			<ymin>890</ymin>
-			<xmax>1122</xmax>
-			<ymax>1072</ymax>
+			<xmin>390</xmin>
+			<ymin>306</ymin>
+			<xmax>447</xmax>
+			<ymax>369</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>114</xmin>
-			<ymin>774</ymin>
-			<xmax>234</xmax>
-			<ymax>899</ymax>
+			<xmin>358</xmin>
+			<ymin>389</ymin>
+			<xmax>415</xmax>
+			<ymax>442</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>66</xmin>
-			<ymin>636</ymin>
-			<xmax>261</xmax>
-			<ymax>837</ymax>
+			<xmin>272</xmin>
+			<ymin>367</ymin>
+			<xmax>351</xmax>
+			<ymax>452</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>468</xmin>
-			<ymin>763</ymin>
-			<xmax>644</xmax>
-			<ymax>910</ymax>
+			<xmin>329</xmin>
+			<ymin>207</ymin>
+			<xmax>385</xmax>
+			<ymax>281</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,70 +101,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>644</xmin>
-			<ymin>723</ymin>
-			<xmax>831</xmax>
-			<ymax>861</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>weights</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>906</xmin>
-			<ymin>817</ymin>
-			<xmax>1109</xmax>
-			<ymax>931</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>weights</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>830</xmin>
-			<ymin>704</ymin>
-			<xmax>1044</xmax>
-			<ymax>848</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>weights</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>80</xmin>
-			<ymin>556</ymin>
-			<xmax>295</xmax>
-			<ymax>696</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>weights</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>98</xmin>
-			<ymin>442</ymin>
-			<xmax>295</xmax>
-			<ymax>575</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>weights</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>73</xmin>
-			<ymin>288</ymin>
-			<xmax>304</xmax>
-			<ymax>439</ymax>
+			<xmin>306</xmin>
+			<ymin>124</ymin>
+			<xmax>363</xmax>
+			<ymax>206</ymax>
 		</bndbox>
 	</object>
 </annotation>

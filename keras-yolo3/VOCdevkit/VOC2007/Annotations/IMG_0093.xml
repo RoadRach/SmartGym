@@ -6,21 +6,21 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1123</width>
-		<height>1498</height>
+		<width>640</width>
+		<height>480</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>weights</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>840</xmin>
-			<ymin>485</ymin>
-			<xmax>1121</xmax>
-			<ymax>781</ymax>
+			<xmin>165</xmin>
+			<ymin>217</ymin>
+			<xmax>535</xmax>
+			<ymax>480</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>387</ymin>
-			<xmax>611</xmax>
-			<ymax>1256</ymax>
+			<xmin>208</xmin>
+			<ymin>1</ymin>
+			<xmax>338</xmax>
+			<ymax>125</ymax>
 		</bndbox>
 	</object>
 </annotation>
